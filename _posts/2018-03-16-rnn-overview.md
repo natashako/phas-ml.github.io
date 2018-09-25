@@ -30,5 +30,5 @@ This paper presents the non-original, but more widely used version of Long-Short
 Link to the [paper][lstm].
 
 [previous paper]: _posts/2018-03-09-generating-wikipedia.md
-[wavenet-meeting]: _posts/2017-12-01-wavenet.markdown
+[wavenet-meeting]: phas-ml.github.io/blob/master/_posts/2017-12-01-wavenet.markdown
 [lstm]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.55.5709
